@@ -1,0 +1,2 @@
+# SwapFarmingContracts
+ based on pancakeswap
